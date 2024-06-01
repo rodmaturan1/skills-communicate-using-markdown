@@ -37,6 +37,5 @@ __bold__ text using \_\_
 
 __*italic bold*__ text using \_\_\* and \*\_\_
 
-
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
       
